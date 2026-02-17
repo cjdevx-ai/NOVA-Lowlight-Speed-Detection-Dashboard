@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor
+.vscode/
+.DS_Store
+
+# Project folders (do not upload)
+
+
+# Ignore all zip files
+*.zip
